@@ -1,2 +1,3 @@
 # GT1-2A
-Faculdade Impacta
+Nome: Thiago Aguiar Gastardelli
+RA: 1901942
